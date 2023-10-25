@@ -1,5 +1,5 @@
-let anything = -20;
-anything = 'Text';
-anything = {};
+let notSure: any = -20;
+notSure = 'Text';
+notSure = {};
 
-export {};
+export { notSure };
